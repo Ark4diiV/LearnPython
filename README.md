@@ -1,2 +1,1 @@
-This is python code practice.
-CodingBat https://codingbat.com/python
+Code practise from https://codingbat.com/python
