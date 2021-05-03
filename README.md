@@ -5,7 +5,7 @@ Install Python in Ubuntu:
 sudo apt-get install python3 python3-pip python-is-python3
 ```
 
-With package you could use path /usr/bin/python for intepreter string
+With package python-is-python3 you could use path /usr/bin/python for intepreter string
 ```
 #!/usr/bin/python
 ```
